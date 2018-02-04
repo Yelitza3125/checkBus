@@ -36,9 +36,9 @@
 
  ## Etapas DCU (Diseño Centrado en el Usuario):
 
- ### A. Descubrimiento e Investigación
+ ## A. Descubrimiento e Investigación
 
-   #### Actividades:
+   ### Actividades:
 
    #### 1.- Formulación de las preguntas para la entrevista con usuarios y la encuesta online
 
@@ -48,9 +48,9 @@
 
    #### 4.- Investigación por internet ( web de empresas de buses, agencia de venta de pasajes, encuestas o estudios anteriores, foros, facebook, apps, etc)
 
- ### B. Síntesis y Definición
+ ## B. Síntesis y Definición
 
-   #### Actividades:
+   ### Actividades:
 
    #### 1.- Definición del problema: Diagrama de afinidad.
 
@@ -70,21 +70,21 @@
 
    #### 9.- Definición de FEATURE LIST.
 
- ### C. Ideación
+ ## C. Ideación
 
-   #### Actividades:
+   ### Actividades:
 
    #### 1.- Realización de un Story board.
 
- ### D. Prototipado
+ ## D. Prototipado
 
-  #### Actividades:
+  ### Actividades:
 
   #### 1.- Realización del prototype content.
 
 
- ### E. Testing
+ ## E. Testing
 
-  #### Actividades:
+  ### Actividades:
 
   #### 1.- Testing del prototype content
