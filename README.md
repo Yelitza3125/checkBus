@@ -135,6 +135,8 @@
    ### Actividades:
 
    #### 1.- Realización de un Story board.
+   ![storyboard](assets/images/storyboard1.png)
+   ![storyboard](assets/images/storyboard2.png)
 
  ## D. Prototipado
 
