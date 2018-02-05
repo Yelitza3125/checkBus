@@ -9,7 +9,7 @@
 
 + Ortiz Villafuerte, María Cristina.
 + Cisneros Torre, Yelitza.
-+ Vanessa.
++ Colqui Santos, L. Vanessa.
 + Darcy.
 + Molly.
 + Longui.
@@ -42,11 +42,33 @@
 
    #### 1.- Formulación de las preguntas para la entrevista con usuarios y la encuesta online
 
+   - A través de la herramienta: lluvia de ideas, logramos definir las preguntas para la entrevista; teniendo en consideración el objetivo identificado.
+   [Preguntas para la entrevista con usuarios:](assets/documents/entrevista/ENTREVISTA-EMPRESA-BUSES.docx).
+   [Preguntas para la encuesta online con usuarios:](https://docs.google.com/forms/d/1vt41tvkkN4uOYlEV_CwwjGsl9o1aFtyVo3kdzdL1qKo/viewform?edit_requested=true).
+
    #### 2.- Entrevista con usuarios (Plaza Norte y Javier Prado)
 
-   #### 3.- Encuesta online a través de Google Drive.
+   - Recolección de datos presencial.
+
+   - Terminal Terrestre Plaza Norte (8:30 am, martes 30 de enero): Se realizaron 12 entrevistas. Al término de las entrevistas nos solicitaron un permiso para tomar fotos, entrevistar u otra actividad dentro de la institución.
+   [Fotos en la entrevista](assets/images/plaza-norte-1.jpg).
+   [Fotos en la entrevista](assets/images/plaza-norte-2.jpg).
+
+  - Terminal de buses Javier Prado (9:30 am, martes 30 de enero): Se realizaron 11 entrevistas.
+   [Fotos en la entrevista](assets/images/javier-prado-1.jpg).
+   [Fotos en la entrevista](assets/images/javier-prado-2.jpg).
+
+   #### 3.- Encuesta online a través de Google Drive
+
+   - Recolección de datos online, a través de publicaciones en el facebook, correo electrónico, etc. Se obtuvo 36 respuestas.
+   [Fotos en la encuesta](assets/documents/encuesta/1.jpg).
+   [Fotos en la encuesta](assets/documents/encuesta/10.jpg).
 
    #### 4.- Investigación por internet ( web de empresas de buses, agencia de venta de pasajes, encuestas o estudios anteriores, foros, facebook, apps, etc)
+   
+   - Se identificaron los temas a investigar: plataformas online, empresas de buses, etc.
+   [Plataformas online de servicios de empresas de transporte](assets/documents/investigación/Plataforma-web-empresas.pptx).
+   [Calificaciones de apps de empresas de transporte](assets/documents/investigación/Calificaciones_de_apps_de_agencias.xlsx).
 
  ## B. Síntesis y Definición
 
