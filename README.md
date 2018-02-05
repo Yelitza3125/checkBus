@@ -10,8 +10,8 @@
 + Ortiz Villafuerte, María Cristina.
 + Cisneros Torre, Yelitza.
 + Colqui Santos, L. Vanessa.
-+ Darcy.
-+ Molly.
++ Cervera Romaní, Darcy.
++ Siesquén Sánchez, Molly.
 + Longui.
 
 ***
@@ -83,6 +83,9 @@
    #### 4.- Benchmarking.
 
    #### 5.- Definición de los User personas.
+
+ ![User persona](assets/images/user-persona.jpg).
+
 
    #### 6.- Definición de los Problems Statements.
 
