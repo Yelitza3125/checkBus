@@ -51,18 +51,18 @@
    - Recolección de datos presencial.
 
    - Terminal Terrestre Plaza Norte (8:30 am, martes 30 de enero): Se realizaron 12 entrevistas. Al término de las entrevistas nos solicitaron un permiso para tomar fotos, entrevistar u otra actividad dentro de la institución.
-   [Fotos en la entrevista](assets/images/plaza-norte-1.jpg).
-   [Fotos en la entrevista](assets/images/plaza-norte-2.jpg).
+   ![Fotos en la entrevista](assets/images/plaza-norte-1.jpg).
+   ![Fotos en la entrevista](assets/images/plaza-norte-2.jpg).
 
   - Terminal de buses Javier Prado (9:30 am, martes 30 de enero): Se realizaron 11 entrevistas.
-   [Fotos en la entrevista](assets/images/javier-prado-1.jpg).
-   [Fotos en la entrevista](assets/images/javier-prado-2.jpg).
+   ![Fotos en la entrevista](assets/images/javier-prado-1.jpg).
+   ![Fotos en la entrevista](assets/images/javier-prado-2.jpg).
 
    #### 3.- Encuesta online a través de Google Drive
 
    - Recolección de datos online, a través de publicaciones en el facebook, correo electrónico, etc. Se obtuvo 36 respuestas.
-   [Fotos en la encuesta](assets/documents/encuesta/1.jpg).
-   [Fotos en la encuesta](assets/documents/encuesta/10.jpg).
+   ![Fotos en la encuesta](assets/documents/encuesta/1.jpg).
+   ![Fotos en la encuesta](assets/documents/encuesta/10.jpg).
 
    #### 4.- Investigación por internet ( web de empresas de buses, agencia de venta de pasajes, encuestas o estudios anteriores, foros, facebook, apps, etc)
    
