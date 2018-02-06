@@ -12,7 +12,7 @@
 + Colqui Santos, L. Vanessa.
 + Cervera Huamaní, Darcy.
 + Siesquén Sánchez, Molly.
-+ Longui.
++ Valverde Mejía, Longhi.
 
 ***
 
@@ -124,19 +124,19 @@
 
    #### 8.- Definición de los WHAT IF?
 
-   - **What iff** ¿Las terramozas  enseñan o indican la seguridad dentro del bus?
-   - **What iff** ¿Hay un registro del servicio de las terramozas?
-   - **What iff** ¿Hay un mago en el bus?
-   - **What iff** ¿Hay un servicio personalizado para madres con noños de 0 a 5 años?
-   - **What iff** ¿El usuario pudiera programar la cena/comida que quiere recibir?
-   - **What iff** ¿El usuario pudiera calificar el servicio brindado?
-   - **What iff** ¿Viajar dentro del bus sea divertido, poniendo calificaciones dentro del bus?
-   - **What iff** ¿La empresa te envía un mensaje 30 minutos antes de que salga el bus?
-   - **What iff** ¿Hay un especialista en reclamos dentro del bus?
-   - **What iff** ¿El usuario pudiera programar los servicios que quiere recibir de acuerdo al precio a pagar?
-   - **What iff** ¿Hay un personal encargado de verificar la limpieza dentro del bus?
-   - **What iff** ¿Aplicamos las funcionalidades de Fitco?
-   - **What iff** ¿Qué tal si usamos las funcionalidades de Trivago?
+   - **What if** ¿Las terramozas  enseñan o indican la seguridad dentro del bus?
+   - **What if** ¿Hay un registro del servicio de las terramozas?
+   - **What if** ¿Hay un mago en el bus?
+   - **What if** ¿Hay un servicio personalizado para madres con noños de 0 a 5 años?
+   - **What if** ¿El usuario pudiera programar la cena/comida que quiere recibir?
+   - **What if** ¿El usuario pudiera calificar el servicio brindado?
+   - **What if** ¿Viajar dentro del bus sea divertido, poniendo calificaciones dentro del bus?
+   - **What if** ¿La empresa te envía un mensaje 30 minutos antes de que salga el bus?
+   - **What if** ¿Hay un especialista en reclamos dentro del bus?
+   - **What if** ¿El usuario pudiera programar los servicios que quiere recibir de acuerdo al precio a pagar?
+   - **What if** ¿Hay un personal encargado de verificar la limpieza dentro del bus?
+   - **What if** ¿Aplicamos las funcionalidades de Fitco?
+   - **What if** ¿Qué tal si usamos las funcionalidades de Trivago?
 
    #### 9.- Definición de FEATURE LIST.
 
@@ -181,5 +181,27 @@
  ## E. Testing
 
   ### Actividades:
+    1.- Sé hizo testing del Content Prototyping con las compañeras de clase. Se obtuvo el sgte feedback:
+      
+      Testing 01:
 
-  #### 1.- Testing del prototype content
+      * No entiendo, ¿qué hace la app?. ¿Es sólo para calificar el servicio de bus?.
+      * Sí calificaría cada item, aunque sea largo.
+      * Las primeras preguntas de adónde viajo o con qué empresa, para qué me sirven.
+
+      Testing 02:
+
+      * El logueo es con DNI o Ticket de Viaje.
+      * Si el usuario marca La mayoría en negativo/positivo cómo miden eso para dar el mensaje positivo/negativo. Ejemplo (3 a 1)
+      * Calificar en uno sólo todos los servicios.
+
+      Testing 03:
+
+      * Al hacer la encuesta de satisfacción, hacer una escala de satisfacción de "nada bueno" a "muy bueno".
+      * La encuesta es muy larga.
+      * Se necesitaría crear dos aplicaciones, una para el usuario y otra para la empresa.
+      * En dónde guarda los datos que el usuario ya ha viajado.
+      
+  #### Resultado final del Content Prototyping
+
+  [Content Prototyping](https://docs.google.com/document/d/1Bdj6_rydMJWmwMQ-s1xbYqpjYtaZO5bo0jFTCYBNoxc/edit)
