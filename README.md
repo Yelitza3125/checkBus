@@ -54,7 +54,7 @@
    ![Fotos en la entrevista](assets/images/plaza-norte-1.jpg).
    ![Fotos en la entrevista](assets/images/plaza-norte-2.jpg).
 
-  - Terminal de buses Javier Prado (9:30 am, martes 30 de enero): Se realizaron 11 entrevistas.
+  - Agencias de buses Javier Prado (9:30 am, martes 30 de enero): Se realizaron 11 entrevistas.
    ![Fotos en la entrevista](assets/images/javier-prado-1.jpg).
    ![Fotos en la entrevista](assets/images/javier-prado-2.jpg).
 
@@ -63,10 +63,11 @@
    - Recolección de datos online, a través de publicaciones en el facebook, correo electrónico, etc. Se obtuvo 36 respuestas.
    ![Fotos en la encuesta](assets/documents/encuesta/1.jpg).
    ![Fotos en la encuesta](assets/documents/encuesta/10.jpg).
+   ![Fotos en la encuesta](assets/documents/encuesta/12.jpg).
 
    #### 4.- Investigación por internet ( web de empresas de buses, agencia de venta de pasajes, encuestas o estudios anteriores, foros, facebook, apps, etc)
    
-   - Se identificaron los temas a investigar: plataformas online, empresas de buses, etc.
+   - Se identificaron los temas a investigar en internet: plataformas online, todo sobre las empresas de buses, etc.
    [Plataformas online de servicios de empresas de transporte](assets/documents/investigación/Plataforma-web-empresas.pptx).
    [Calificaciones de apps de empresas de transporte](assets/documents/investigación/Calificaciones_de_apps_de_agencias.xlsx).
 
@@ -75,6 +76,11 @@
    ### Actividades:
 
    #### 1.- Definición del problema: Diagrama de afinidad.
+
+   Se utilizó el diagrama de afinidad, a través los siguientes pasos:
+   - Paso 1.- En posits se colocó los comentarios( cosas que no les gusta, cosas que desearían, quejas, cosas que no quedaron claras, etc) tal cual como los usuarios lo mencionaron sin interpretaciones ni deducciones; dichos usuarios fueron de las entrevistas personales que se hicieron en la terminal terrestre Plaza norte y las agencias en Javier Prado.
+   
+   - Paso 2.-  Se agrupó  los posits por temas. El fin de esta actividad fue organizar lo recolectado para tener cosas claras y especificas  agrupadas en temas. Los temas que surgieron fueron: Precios/formas de pago, online, atención al cliente, presencial, horarios, ok sin quejas, raros, frecuencia de viajes, servicios dentro del bus.
 
    #### 2.- Priorizar a partir de los temas determinados en el diagrama de afinidad.
 
