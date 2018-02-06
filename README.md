@@ -182,6 +182,8 @@
 
   ### Actividades:
     1.- Sé hizo testing del Content Prototyping con las compañeras de clase. Se obtuvo el sgte feedback:
+    2.- ¿cómo?
+    3.- ¿por qué?
       
       Testing 01:
 
