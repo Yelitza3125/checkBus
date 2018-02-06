@@ -159,53 +159,6 @@
 
    ### Actividades:
 
-   #### 1.- Realización del user persona.
-
-   Definimos nuestro user-persona de acuerdo a la recolección de datos que tuvimos en nuestras entrevistas.
-
-   Perfil de nuestro user-persona:
-
-  * **NOMBRE:**	Ana María.
-  *  **EDAD:**	30años.
-  * **LUGAR DONDE VIVE:** San Martín de Porres.
-  * **OCUPACIÓN:**
-    - Ama de casa.
-	- Trabaja en provincia
-	- Comerciante.
-	- Trabaja en ventas(Atención al cliente)
-    
-  * **ESCENARIO:**
-  
-    Ana María es madre soltera, a los 26 años decidió mudarse desde Piura hacia Lima con su pequeño hijo de 6 años; instalada en Lima logró mejorar sus ingresos trabajando de encargada de ventas en un galería de gamarra, ahora apoya a su familia que se quedó en Piura; al año viaja 3 a 5 veces, especialmente en días festivos.
-  
-  * **FRUSTRACIONES:**
-
-    -	Elige la empresa en que viaja de acuerdo a su necesidad, asientos cómodos, aire acondicionado y baños. Pues sus viajes a Piura duran de 18 a 20hras.
-    -	Cada vez que tuvo un mal servicio en un viaje, ignoraron sus reclamos.
-    -	En todos sus viajes siempre va con su pequeño hijo y no consigue entretenerlo cuando está aburrido.
-
-  * **METAS:**
-
-    -	Lograr traer a sus padres a Lima.
-    -	Tener su propio negocio.
-    -	Tener una casa propia.
-    -	Darle una educación de calidad a su hijo.
-    -	Encontrar una empresa de transporte que cumpla con los requerimientos que ella necesita para que tenga viajes cómodos.
-
-  * **NECESIDADES:**
-
-    -	Salir y llegar puntual a Piura, pue su hijo es muy inquieto.
-    -	Por los accidentes frecuentes en Perú, Ana María se preocupa por su hijo, por ello siempre busca viajar con conductores eficientes, que los cinturones de seguridad estén en buen estado, que cuente con GPS y control de velocidad.
-    -	Ana María es ordenada y limpia, por ello tiene la necesidad de viajar en un bus limpio con baños aseados.
-    -	El viaje a Piura es muy largo y se pasa por zonas calurosas, por ello Ana María necesita que el bus cuente con aire acondicionado.
-    -	Ana María siempre opina y califica sobre cada experiencia de sus viajes a Piura.
-    -	Por tener un hijo inquieto y por su viaje largo, Ana María necesita una atención a bordo y alimentos.
-    -	Cuando Ana María viaja a Piura lleva muchos equipajes con ropa de su hijo, regalos frágiles para la familia, etc, por ello necesita que sus equipajes viajen seguros.
-    -	Al hijo de Ana María le gustan los videojuegos y en el viaje es una de las cosas que los mantiene tranquilos por ello necesita cobertura wifi en sus viajes.
-    -	Ana María a veces tiene inconvenientes con los servicios que le brinda los buses, por ello necesita que los servicios ofrecidos se cumplan.
-
-
-
    #### 2.- Realización de un Story board.
 
    Partiendo de nuestro user persona, creamos un storyboard, con los momentos que tiene el usuario a lo largo de su proceso de toma de desiciones respecto a su necesidad de encontrar una empresa de bus que cumpla con los servicios que ofrece y poder tener un viaje cómodo junto con su hijo.
