@@ -108,6 +108,37 @@
 
    #### 4.- Benchmarking.
 
+   Se realizó el benchmarking con las 7 principales empresas de tranportes del país. Para así conocer y comparar los servicios que ofrecen a los pasajeros.
+
+   1. Transportes Cruz del Sur S.A.C
+
+   ![Cruz del Sur](assets/documents/benchmarck/cruz-del-sur.jpg).
+
+   2. Turismo Civa S.A.C
+
+   ![Civa](assets/documents/benchmarck/civa.jpg).
+
+   3. Empresa de Transportes Flores Hermanos S.C.R.LTDA.
+
+   ![Flores](assets/documents/benchmarck/flores.jpg).
+
+   4. Movil Bus S.A.C
+
+   ![Movil](assets/documents/benchmarck/movil.jpg).
+
+   5. Oltursa
+
+   ![Oltursa](assets/documents/benchmarck/oltursa.jpg).
+
+   6. Tepsa
+
+   ![Tepsa](assets/documents/benchmarck/tepsa.jpg).
+
+   7. Transportes Línea S.A
+
+   ![Línea](assets/documents/benchmarck/linea.jpg).
+
+
    #### 5.- Definición de los User personas.
 
    ![User persona](assets/images/user-persona.jpg).
