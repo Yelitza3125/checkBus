@@ -179,7 +179,7 @@
        - **Ana María necesita** que el bus tenga aire acondicionado, **porque** realiza viajes largos al interior del país, con sus hijos.
        - **Ana María necesita** asientos cómodos
 
-   #### 7.- Definición de lo HMW( How Might We?).
+   #### 7.- Definición de lo HMW( Howgit      Might We?).
 
 
   - Se definió los HMW donde  se planteó preguntas tomando como base los PROBLEMS STATEMENTS  ya elaborados en la actividad anterior. se siguió  siguiendo el modelo **¿Cómo podríamos hacer X cosa?**.
@@ -194,19 +194,19 @@
 
    - ver lista de HMW:
 
-   - ¿Cómo podríamos entretener a los hijos de Ana María?
-   - ¿Cómo podríamos verificar los servicios brindados, a través de las experiencias de los usuarios?
-   - ¿Cómo hacer que el usuario sienta confianza al momento de elegir una empresa para viajar?
-   - ¿Cómo podríamos ofrecer un buen servicio de wifi dentro del bus?
-   - ¿Cómo podríamos darle garantía al usuario sobre el servicio adquirido?
-   - ¿Cómo podríamos mejorar la atención a los reclamos de los pasajeros?
-   - ¿Cómo podríamos brindar aire acondicionado y calefacción?
-   - ¿Cómo podríamos hacer que la experiencia del viaje sea más segura?
-   - ¿Cómo podríamos hacer que los reclamos sean escuchados y atendidos?
-   - ¿Cómo podríamos adaptar el espacio del bus, para que Ana se sienta segura con su equipaje?
-   - ¿Cómo podríamos hacer que las terramozas tengan un trato amable con los pasajeros?
-   - ¿Cómo podríamos hacer el viaje más cómodo?
-   - ¿Cómo podríamos asegurar que los equipajes no se extravíen o dañen?
+       - ¿Cómo podríamos entretener a los hijos de Ana María?
+       - ¿Cómo podríamos verificar los servicios brindados, a través de las experiencias de los usuarios?
+       - ¿Cómo hacer que el usuario sienta confianza al momento de elegir una empresa para viajar?
+       - ¿Cómo podríamos ofrecer un buen servicio de wifi dentro del bus?
+       - ¿Cómo podríamos darle garantía al usuario sobre el servicio adquirido?
+       - ¿Cómo podríamos mejorar la atención a los reclamos de los pasajeros?
+       - ¿Cómo podríamos brindar aire acondicionado y calefacción?
+       - ¿Cómo podríamos hacer que la experiencia del viaje sea más segura?
+       - ¿Cómo podríamos hacer que los reclamos sean escuchados y atendidos?
+       - ¿Cómo podríamos adaptar el espacio del bus, para que Ana se sienta segura con su equipaje?
+       - ¿Cómo podríamos hacer que las terramozas tengan un trato amable con los pasajeros?    
+       - ¿Cómo podríamos hacer el viaje más cómodo?
+       - ¿Cómo podríamos asegurar que los equipajes no se extravíen o dañen?
 
    #### 8.- Definición de los WHAT IF?
 
@@ -222,19 +222,19 @@
 
   - Lista de los WHAT IF?:
 
-   - **What if** ¿Las terramozas  enseñan o indican la seguridad dentro del bus?
-   - **What if** ¿Hay un registro del servicio de las terramozas?
-   - **What if** ¿Hay un mago en el bus?
-   - **What if** ¿Hay un servicio personalizado para madres con noños de 0 a 5 años?
-   - **What if** ¿El usuario pudiera programar la cena/comida que quiere recibir?
-   - **What if** ¿El usuario pudiera calificar el servicio brindado?
-   - **What if** ¿Viajar dentro del bus sea divertido, poniendo calificaciones dentro del bus?
-   - **What if** ¿La empresa te envía un mensaje 30 minutos antes de que salga el bus?
-   - **What if** ¿Hay un especialista en reclamos dentro del bus?
-   - **What if** ¿El usuario pudiera programar los servicios que quiere recibir de acuerdo al precio a pagar?
-   - **What if** ¿Hay un personal encargado de verificar la limpieza dentro del bus?
-   - **What if** ¿Aplicamos las funcionalidades de Fitco?
-   - **What if** ¿Qué tal si usamos las funcionalidades de Trivago?
+       - **What if** ¿Las terramozas  enseñan o indican la seguridad dentro del bus?
+       - **What if** ¿Hay un registro del servicio de las terramozas?
+       - **What if** ¿Hay un mago en el bus?
+       - **What if** ¿Hay un servicio personalizado para madres con noños de 0 a 5 años?
+       - **What if** ¿El usuario pudiera programar la cena/comida que quiere recibir?
+       - **What if** ¿El usuario pudiera calificar el servicio brindado?
+       - **What if** ¿Viajar dentro del bus sea divertido, poniendo calificaciones dentro del bus?
+       - **What if** ¿La empresa te envía un mensaje 30 minutos antes de que salga el bus?
+       - **What if** ¿Hay un especialista en reclamos dentro del bus?
+       - **What if** ¿El usuario pudiera programar los servicios que quiere recibir de acuerdo al precio a pagar?
+       - **What if** ¿Hay un personal encargado de verificar la limpieza dentro del bus?
+       - **What if** ¿Aplicamos las funcionalidades de Fitco?
+       - **What if** ¿Qué tal si usamos las funcionalidades de Trivago?
 
    #### 9.- Definición de FEATURE LIST.
 
