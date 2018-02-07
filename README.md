@@ -231,37 +231,63 @@
 
   ### Actividades:
 
-  #### 1.- Realización del prototype content.
+  #### 1.- Realización del Prototype Content(02/02/2018 y 05/02/2018).
 
-  https://docs.google.com/document/d/1Bdj6_rydMJWmwMQ-s1xbYqpjYtaZO5bo0jFTCYBNoxc/edit?usp=sharing
+  [Prototype Content](https://docs.google.com/document/d/1Bdj6_rydMJWmwMQ-s1xbYqpjYtaZO5bo0jFTCYBNoxc/edit?usp=sharing)
+
+  #### 2.- Realización del Paper Prototyping & Testing(06/02/2018).
+
+
+  
+
+
 
 
  ## E. Testing
 
   ### Actividades:
-    1.- Sé hizo testing del Content Prototyping con las compañeras de clase. Se obtuvo el sgte feedback:
-    2.- ¿cómo?
-    3.- ¿por qué?
+
+
+  **I.- Testing del Prototype Content**
+  
+   Se hizo testing del Prototype Content con las compañeras de clase. La finalidad: obtener feedback para mejorar el flujo de nuestro producto antes de realizar el prototipado del MVP.
+
+  1.- Entrevistas a 3 usuarios dentro de clase.    
+  2.- El proceso consistió en explicar 1 a 1 el Content Prototype. con un tiempo de 15minutos por usuario.     
+  3.- Después de recibir feedback se procedió a mejorar el Content Prototype.     
+  4.- Finalmente pasamos a prototipar nuestras vistas.
+
+  Se obtuvo los sgtes. Feedback's:
+    
+  **Testing 01:**
+
+    * No entiendo, ¿qué hace la app?. ¿Es sólo para calificar el servicio de bus?.
+    * Sí calificaría cada item, aunque sea largo.
+    * Las primeras preguntas de adónde viajo o con qué empresa, para qué me sirven.
+
+  **Testing 02:**
+
+    * El logueo es con DNI o Ticket de Viaje.
+    * Si el usuario marca La mayoría en negativo/positivo cómo miden eso para dar el mensaje positivo/negativo. Ejemplo (3 a 1)
+    * Calificar en uno sólo todos los servicios.
+
+  **Testing 03:**
+
+    * Al hacer la encuesta de satisfacción, hacer una escala de satisfacción de "nada bueno" a "muy bueno".
+    * La encuesta es muy larga.
+    * Se necesitaría crear dos aplicaciones, una para el usuario y otra para la empresa.
+    * En dónde guarda los datos que el usuario ya ha viajado.
       
-      Testing 01:
-
-      * No entiendo, ¿qué hace la app?. ¿Es sólo para calificar el servicio de bus?.
-      * Sí calificaría cada item, aunque sea largo.
-      * Las primeras preguntas de adónde viajo o con qué empresa, para qué me sirven.
-
-      Testing 02:
-
-      * El logueo es con DNI o Ticket de Viaje.
-      * Si el usuario marca La mayoría en negativo/positivo cómo miden eso para dar el mensaje positivo/negativo. Ejemplo (3 a 1)
-      * Calificar en uno sólo todos los servicios.
-
-      Testing 03:
-
-      * Al hacer la encuesta de satisfacción, hacer una escala de satisfacción de "nada bueno" a "muy bueno".
-      * La encuesta es muy larga.
-      * Se necesitaría crear dos aplicaciones, una para el usuario y otra para la empresa.
-      * En dónde guarda los datos que el usuario ya ha viajado.
-      
-  #### Resultado final del Content Prototyping
+  **Resultado final del Prototype Content**
 
   [Content Prototyping](https://docs.google.com/document/d/1Bdj6_rydMJWmwMQ-s1xbYqpjYtaZO5bo0jFTCYBNoxc/edit)
+
+  **II.- Testing de Paper Prototype**
+
+Después de un arduo proceso de Creación del Producto pasando por todas las etapas(descubrimiento e investigación, síntesis y definición, ideación, prototipado, testing). Se realizó un testing con 03 usuarios, con el fin de obtener feedback del producto creado y mejorar a través del tiempo.
+
+1.- Luego del testing con el Protype Content, se realizaron las pruebas con el Prototype del Producto en clase.  
+2.- En clase luego de varias horas de trabajo en el Prototype, se empezó a testear con 03 usuarios reales. Realizándose una previa entrevista y finalmente el proceso del testing[Se usó como base la "[Guía de usabilidad](https://docs.google.com/document/d/14IuWyDjKf7YbrObpoxhQxWEAqTISbaRvY6XF5NHZooQ/edit)" y "[Consentimiento](https://docs.google.com/document/d/11Op9jpjyub1_QO0LnH8LdwJTyJfu2daT52cEfFISueA/edit)"].  
+3.- Finalmente se obtuvo un feedback de los 03 usuarios testeados y comenzamos a iterar.
+
+
