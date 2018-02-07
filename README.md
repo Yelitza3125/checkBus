@@ -288,11 +288,12 @@
   - Sé hizo un prototipo inicial en papel de nuestro MVP.
 
   - Nos basamos en el flujo que se hizo en el prototype content y story board. Cada integrante prototipó en papel una parte del flujo para luego unirlo y tener un prototipo inicial para testearlo.
-  
 
-   ![Fotos del prototipado](assets/images/resgistro v1.png)
-   ![Fotos del prototipado](assets/images/calificaión v1.png)
-   ![Fotos del prototipado](assets/images/reclamo v1.png)
+
+   ![Fotos del prototipado](assets/images/registrov1.png)
+   ![Fotos del prototipado](assets/images/calificacionv1.png)
+   ![Fotos del prototipado](assets/images/reclamov1.png)
+
 
   - El hacer el prototipo inicial en papel nos permitió tener una interfaz de baja fidelidad, económico que nos ayudó a verificar si los usuarios son capaces de realizar sus tareas (identificar claramente los componentes que le llevara a entender una funcionalidad; y una navegación clara) con la interfaz propuesta, ver las dificultades que tiene, que cosas no le gusta; y de esta manera,sin más costo, cambiar dichos requerimientos, observaciones o recomendaciones y volver a testearla hasta tener una interfaz entendible y satisfactorio para el usuario antes de mandarlo al diseño de un interfaz de alta fidelidad.
 
@@ -315,7 +316,7 @@
  ![Fotos del prototipado](assets/images/registrov2.png)
  ![Fotos del prototipado](assets/images/calificacion1 v2.png)
  ![Fotos del prototipado](assets/images/reclamov2.png)
- ![Fotos del prototipado](assets/images/datos no correctosv2.png)
+ ![Fotos del prototipado](assets/images/datosv2.png)
 
 
   #### 4.- Realización del Paper Prototyping - final & Testing(06/02/2018).
