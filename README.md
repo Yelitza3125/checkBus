@@ -162,22 +162,22 @@
 
    - Lista de los Problems stataments identificados:
 
-  - **Ana María necesita** puntualidad en la salida y llegada del bus,**porque** es un valor que aprecia mucho; principalmente porque tiene niños pequeños.
-  - **Ana María necesita** un conductor de confianza, **para** la seguridad de ella y sus hijos.
-  - **Ana María necesita** asientos limpios, **para** viajar relajada.
-  - **Ana María necesita** cinturones de seguridad en buenas condiciones, **porque** necesita viajar segura con sus hijos.
-  - **Ana María necesita** tener certeza que el bus cumplirá con su hora de llegada al terminal, **para** evitar que su hijo se aburra demasiado con la espera.
-  - **Ana María necesita** aire acondicionado y calefacción, **porque** viaja a zonas frías y tropicales con su familia.
-  - **Ana María necesita** una plataforma donde su calificación/opinión sobre la empresa no sea borrada, **para** confiar en que la empresa implementará una solución.
-  - **Ana María necesita** buen trato del personal de la empresa (terramozas), **porque** el trato amable es lo que más aprecia de un servicio.
-  - **Ana María necesita** desayunos, almuerzos y cenas adecuados, **porque** viaja durante muchas horas.
-  - **Ana María necesita** tener seguridad de que su equipaje llegará bien, **porque** lleva víveres para su familia.
-  - **Ana María necesita** una plataforma segura donde poner sus reclamos,**para** sentirse escuchada y resolver sus problemas.
-  - **Ana María necesita** wifi cuando viaja, **para** que su hijo no se aburran.
-  - **Ana María necesita** un sistema que le asegure los verdaderos servicios que brinda la empresa, **para** poder elegir donde viajar.
-  - **Ana María necesita** buena atención al subir al bus, **porque** viaja más de 8 horas a una zona calurosa.
-  - **Ana María necesita** que el bus tenga aire acondicionado, **porque** realiza viajes largos al interior del país, con sus hijos.
-  - **Ana María necesita** asientos cómodos
+       - **Ana María necesita** puntualidad en la salida y llegada del bus,**porque** es un valor que aprecia mucho; principalmente porque tiene niños pequeños.
+       - **Ana María necesita** un conductor de confianza, **para** la seguridad de ella y sus hijos.
+       - **Ana María necesita** asientos limpios, **para** viajar relajada.
+       - **Ana María necesita** cinturones de seguridad en buenas condiciones, **porque** necesita viajar segura con sus hijos.
+       - **Ana María necesita** tener certeza que el bus cumplirá con su hora de llegada al terminal, **para** evitar que su hijo se aburra demasiado con la espera.
+       - **Ana María necesita** aire acondicionado y calefacción, **porque** viaja a zonas frías y tropicales con su familia.
+       - **Ana María necesita** una plataforma donde su calificación/opinión sobre la empresa no sea borrada, **para** confiar en que la empresa implementará una solución.
+       - **Ana María necesita** buen trato del personal de la empresa (terramozas), **porque** el trato amable es lo que más aprecia de un servicio.
+       - **Ana María necesita** desayunos, almuerzos y cenas adecuados, **porque** viaja durante muchas horas.
+       - **Ana María necesita** tener seguridad de que su equipaje llegará bien, **porque** lleva víveres para su familia.
+       - **Ana María necesita** una plataforma segura donde poner sus reclamos,**para** sentirse escuchada y resolver sus problemas.
+       - **Ana María necesita** wifi cuando viaja, **para** que su hijo no se aburran.
+       - **Ana María necesita** un sistema que le asegure los verdaderos servicios que brinda la empresa, **para** poder elegir donde viajar.
+       - **Ana María necesita** buena atención al subir al bus, **porque** viaja más de 8 horas a una zona calurosa.
+       - **Ana María necesita** que el bus tenga aire acondicionado, **porque** realiza viajes largos al interior del país, con sus hijos.
+       - **Ana María necesita** asientos cómodos
 
    #### 7.- Definición de lo HMW( How Might We?).
 
