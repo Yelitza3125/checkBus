@@ -141,14 +141,26 @@
 
    #### 5.- Definición de los User personas.
 
-   - Se definió a nuestro user person primario: Ana María Rojas.
+   - Se definió a nuestro user person primario y secundario,  Ana María Rojas y José Carlos respectivamente.
 
    - Se recopiló en  clase algunos aspectos de nuestro user person primario.Esto se basó en las opiniones, motivaciones, quejas, necesidades de los usuarios en la entrevista personal, encuesta online; relacionados al problemas que obtuvimos "No cumplimiento de los servicios que ofrecen dentro del bus y mala atención al hacer un reclamo".
 
+   - Aplicar esta herramienta nos permitió resumir necesidades, motivaciones, expectativas comunes en un solo ejemplo (user person), nos brindó una visión general de como son nuestros usuarios individualmente;  y poder inferir (empatizando) como este podría usar nuestro producto, para asi poder identificar con facilidad sus necesidades y la razon por la cual surge esa necesidad(Problems Statements).
+
    ![User persona](assets/images/user-persona.jpg).
+   ![User persona](assets/images/user-persona-sec.png).
 
 
    #### 6.- Definición de los Problems Statements.
+
+   - Se definió los problems statements en base a las necesidades de nuestros user persons (primario y secundario). se usó el modelo:
+
+        -  " ANA NECESITA {necesidad} PORQUE/PARA {insight}".
+
+
+   - Esta actividad nos ayuda más a centrarnos en los resultados que en el producto, ya que esta lista  de las necesidades de Ana y el motivo de sus necesidades, nos permite ir viendo formas de resolver ( HMW) específicamente cada necesidad punto por punto.
+
+   - Lista de los Problems stataments identificados:
 
   - **Ana María necesita** puntualidad en la salida y llegada del bus,**porque** es un valor que aprecia mucho; principalmente porque tiene niños pequeños.
   - **Ana María necesita** un conductor de confianza, **para** la seguridad de ella y sus hijos.
@@ -169,6 +181,19 @@
 
    #### 7.- Definición de lo HMW( How Might We?).
 
+
+  - Se definió los HMW donde  se planteó preguntas tomando como base los PROBLEMS STATEMENTS  ya elaborados en la actividad anterior. se siguió  siguiendo el modelo **¿Cómo podríamos hacer X cosa?**.
+
+  -  Para poder Formular o definir estas preguntas tuvimos que tener ciertas consideraciones:
+    - Estas preguntas deben ser positivas
+    - No ser tan generales ni tan especificas (ejm. ¿ Que pasos podríamos seguir para hacer esto o aquello), pues se debe evitar hacer preguntas que nos lleven a tener respuestas  muy especificas.
+
+
+  - Definir lo HMW nos permitó entender mejor las necesidades especificas, reales e ir pensando en algunas formas de solucionarlo.
+
+
+   - ver lista de HMW:
+
    - ¿Cómo podríamos entretener a los hijos de Ana María?
    - ¿Cómo podríamos verificar los servicios brindados, a través de las experiencias de los usuarios?
    - ¿Cómo hacer que el usuario sienta confianza al momento de elegir una empresa para viajar?
@@ -184,6 +209,18 @@
    - ¿Cómo podríamos asegurar que los equipajes no se extravíen o dañen?
 
    #### 8.- Definición de los WHAT IF?
+
+   - En base a los HMW (Cómo podríamos hacer "x" cosa) definimos los WHAT IF? (¿que tal si?) que nos permitieron encontrar algunas soluciones a situaciones especificas.
+
+  - Para formular estos "what if?" tomamos en cuenta ciertos guías:
+     - Agregar o eliminar alguna parte de la experiencia
+     - Agregar un nuevo actor.
+     - Tomar ideas de otras industrias.
+
+
+  - Aplicar esta herramienta nos permitio, filtrar aun más necesidades reales, aquí ya encontramos algun actores que interfieren el servició, descartamos necesidades no tan relevantes, es decir, que no afectan de sobremanera la comodidad del user person (Ana María). Nos permitió también inferir algunas soluciones a las necesidades.
+
+  - Lista de los WHAT IF?:
 
    - **What if** ¿Las terramozas  enseñan o indican la seguridad dentro del bus?
    - **What if** ¿Hay un registro del servicio de las terramozas?
