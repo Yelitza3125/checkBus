@@ -288,6 +288,7 @@
   - Sé hizo un prototipo inicial en papel de nuestro MVP.
 
   - Nos basamos en el flujo que se hizo en el prototype content y story board. Cada integrante prototipó en papel una parte del flujo para luego unirlo y tener un prototipo inicial para testearlo.
+  
 
    ![Fotos del prototipado](assets/images/resgistro v1.png)
    ![Fotos del prototipado](assets/images/calificaión v1.png)
