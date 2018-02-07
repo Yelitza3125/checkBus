@@ -370,4 +370,25 @@ Después de un arduo proceso de Creación del Producto pasando por todas las eta
 
 1.- Luego del testing con el Protype Content, se realizaron las pruebas con el Prototype del Producto en clase.  
 2.- En clase luego de varias horas de trabajo en el Prototype, se empezó a testear con 03 usuarios reales. Realizándose una previa entrevista y finalmente el proceso del testing[Se usó como base la "[Guía de usabilidad](https://docs.google.com/document/d/14IuWyDjKf7YbrObpoxhQxWEAqTISbaRvY6XF5NHZooQ/edit)" y "[Consentimiento](https://docs.google.com/document/d/11Op9jpjyub1_QO0LnH8LdwJTyJfu2daT52cEfFISueA/edit)"].  
-3.- Finalmente se obtuvo un feedback de los 03 usuarios testeados y comenzamos a iterar.
+3.- Finalmente se obtuvo un feedback de los 03 usuarios testeados y comenzamos a iterar.   
+
+**María Teresa:**
+
+    * Que tenga menos ventanas.
+    * Que haya una garantía de respuesta al reclamo.
+    * Que genere un código de reclamo para darle más seriedad.
+    * Que la comunicación con la empresa sea via correo o llamada
+
+**Gonzalo:**
+      
+    * En la vista registró mejor distribución del contenido, tiene mucha información que distrae.
+    * Que el contacto con la empresa sea via el correo personal.
+    * En lugar de una app, también podría ser una página web.
+    * Mayor rapidez en el flujo, sin tantos botones de "continuar"
+
+**Ruth:**
+   
+    * El contacto con la empresa, a través del correo personal.
+    * La vista de registro tiene mucha información para una vista mobile, simplificarlo. Las opciones de registro que vaya en otra vista o un modal.
+    * En al vista perfil, las calificaciones pendientes no son notorias a simple vista, ubicarlo en un lugar donde se pueda visualizar rápidamente.
+
