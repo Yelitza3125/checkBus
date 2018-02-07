@@ -51,25 +51,25 @@
    - Recolección de datos presencial.
 
    - Terminal Terrestre Plaza Norte (8:30 am, martes 30 de enero): Se realizaron 12 entrevistas. Al término de las entrevistas nos solicitaron un permiso para tomar fotos, entrevistar u otra actividad dentro de la institución.
-   
+
    ![Fotos en la entrevista](assets/images/plaza-norte-1.jpg).
    ![Fotos en la entrevista](assets/images/plaza-norte-2.jpg).
 
   - Agencias de buses Javier Prado (9:30 am, martes 30 de enero): Se realizaron 11 entrevistas.
-   
+
    ![Fotos en la entrevista](assets/images/javier-prado-1.jpg).
    ![Fotos en la entrevista](assets/images/javier-prado-2.jpg).
 
    #### 3.- Encuesta online a través de Google Drive
 
    - Recolección de datos online, a través de publicaciones en el facebook, correo electrónico, etc. Se obtuvo 36 respuestas.
-   
+
    ![Fotos en la encuesta](assets/documents/encuesta/1.jpg).
    ![Fotos en la encuesta](assets/documents/encuesta/10.jpg).
    ![Fotos en la encuesta](assets/documents/encuesta/12.jpg).
 
    #### 4.- Investigación por internet ( web de empresas de buses, agencia de venta de pasajes, encuestas o estudios anteriores, foros, facebook, apps, etc)
-   
+
    - Se identificaron los temas a investigar en internet: plataformas online, todo sobre las empresas de buses, etc.
    [Plataformas online de servicios de empresas de transporte](assets/documents/investigación/Plataforma-web-empresas.pptx).
    [Calificaciones de apps de empresas de transporte](assets/documents/investigación/Calificaciones_de_apps_de_agencias.xlsx).
@@ -82,7 +82,7 @@
 
    Se utilizó el diagrama de afinidad, a través los siguientes pasos:
    - Paso 1.- En posits se colocó los comentarios( cosas que no les gusta, cosas que desearían, quejas, cosas que no quedaron claras, etc) tal cual como los usuarios lo mencionaron sin interpretaciones ni deducciones; dichos usuarios fueron de las entrevistas personales que se hicieron en la terminal terrestre Plaza norte y las agencias en Javier Prado.
-   
+
    ![Diagrama de afinidad](assets/images/diagrama-afinidad.jpg).
 
    - Paso 2.-  Se agrupó  los posits por temas. El fin de esta actividad fue organizar lo recolectado para tener cosas claras y especificas  agrupadas en temas. Los temas que surgieron fueron: Precios/formas de pago, online, atención al cliente, presencial, horarios, ok sin quejas, raros, frecuencia de viajes, servicios dentro del bus.
@@ -91,9 +91,9 @@
    ![Item-presencial del diagrama de afinidad](assets/images/Item-presencial.jpg).
 
    #### 2.- Priorizar a partir de los temas determinados en el diagrama de afinidad.
-   
-   - Para esta actividad se hizo una lluvia de ideas y se tomó en cuenta los resultados de las encuestas. 
-   
+
+   - Para esta actividad se hizo una lluvia de ideas y se tomó en cuenta los resultados de las encuestas.
+
    ![diagrama de afinidad-encuestas](assets/images/diagrama-afinidad-encuestas.jpg).
 
    - Priorizamos los temas "Servicios dentro del bus" porque existían más usuarios con los mismos inconvenientes. Se priorizó también el tema "atención al cliente" porque si un servicio dentro del bus no es satisfactorio, el pasajero reclama y es necesario que dicha queja se atiendan de manera adecuada; de ahí la importancia de la relación entre los dos temas.
@@ -103,7 +103,7 @@
    #### 3.- Elección el problema que se abordará.
 
    - El problema que se encontró es sobre: "No cumplimiento de los servicios que ofrecen dentro del bus y mala atención al hacer un reclamo".
-   
+
    - ¿Porque? Deacuerdo a los temas elegidos en la actividad de priorización se entendió que los servicios dentro del bus que ofrecen las empresas (Asientos, calefacción, ventilación, limpieza, comida, atención de terramoza, etc) muchas veces no son ciertas o no se cumplen por completo; además cuando ocurre un reclamo estos no son atendidos, o medianamente atendidos dejando a los pasajeros insatisfechos.
 
    #### 4.- Benchmarking.
@@ -140,6 +140,10 @@
 
 
    #### 5.- Definición de los User personas.
+
+   - Se definió a nuestro user person primario: Ana María Rojas.
+
+   - Se recopiló en  clase algunos aspectos de nuestro user person primario.Esto se basó en las opiniones, motivaciones, quejas, necesidades de los usuarios en la entrevista personal, encuesta online; relacionados al problemas que obtuvimos "No cumplimiento de los servicios que ofrecen dentro del bus y mala atención al hacer un reclamo".
 
    ![User persona](assets/images/user-persona.jpg).
 
@@ -203,14 +207,14 @@
     - Registro de sesión con Facebook
     - Registro de sesión con Google
     - Registro de sesión con su email
-  
+
 
   - **Sistema de calificación del servicio**
     - Notificación automática.
     - Opción de anonimato.
     - Opción de brindar una opinión.
     - Generación del enlace con la empresa para la solución del reclamo.
-  
+
 
 
  ## C. Ideación
@@ -222,7 +226,7 @@
    Partiendo de nuestro user persona, creamos un storyboard, con los momentos que tiene el usuario a lo largo de su proceso de toma de desiciones respecto a su necesidad de encontrar una empresa de bus que cumpla con los servicios que ofrece y poder tener un viaje cómodo junto con su hijo.
 
    Así como también a tener más claro hacia dónde queremos llevar el diseño de nuestro producto y poder resolver de la manera más óptima la necesidad de nuestro usuario a cubrir.
-  
+
 
    ![storyboard](assets/images/storyboard1.png)
    ![storyboard](assets/images/storyboard2.png)
@@ -233,15 +237,54 @@
 
   #### 1.- Realización del Prototype Content(02/02/2018 y 05/02/2018).
 
-  [Prototype Content](https://docs.google.com/document/d/1Bdj6_rydMJWmwMQ-s1xbYqpjYtaZO5bo0jFTCYBNoxc/edit?usp=sharing)
+  - Se realizó el prototype content de nuestro MVP.
 
-  #### 2.- Realización del Paper Prototyping & Testing(06/02/2018).
+  - Para realizarlo nos guíamos del artículo [Las damas, los niños y el contenido primero](https://medium.com/mercadolibre-ux/ux-empieza-por-contar-una-historia-26f23d27a63e).
+
+  - Esta técnica es una versión temprana y esquemática de la conversación que el usuario tiene con el producto, cuyo soporte es el texto. Realizar aquello nos permitió hacer foco de la estructura que tendrá nuestro producto (tener claro donde empezará y terminará el flujo de nuestro producto); ademas,nos permitió ver las fricciones a eliminar, lo que debemos simplificar en la interacción y los lugares en los que tenemos una oportunidad de deleitar al usuario. Para tener estos beneficios el prototype content se testeó (ver feedback en la etapa de E.- Actividades de testing).
+
+  - Archivo del prototype content: https://docs.google.com/document/d/1Bdj6_rydMJWmwMQ-s1xbYqpjYtaZO5bo0jFTCYBNoxc/edit?usp=sharing
 
 
-  
+  #### 2.- Realización del Paper Prototyping versión-1 & Testing(06/02/2018).
+
+  - Sé hizo un prototipo inicial en papel de nuestro MVP.
+
+  - Nos basamos en el flujo que se hizo en el prototype content y story board. Cada integrante prototipó en papel una parte del flujo para luego unirlo y tener un prototipo inicial para testearlo.
+
+   ![Fotos del prototipado](assets/images/resgistro v1.png)
+   ![Fotos del prototipado](assets/images/calificaión v1.png)
+   ![Fotos del prototipado](assets/images/reclamo v1.png)
+
+  - El hacer el prototipo inicial en papel nos permitió tener una interfaz de baja fidelidad, económico que nos ayudó a verificar si los usuarios son capaces de realizar sus tareas (identificar claramente los componentes que le llevara a entender una funcionalidad; y una navegación clara) con la interfaz propuesta, ver las dificultades que tiene, que cosas no le gusta; y de esta manera,sin más costo, cambiar dichos requerimientos, observaciones o recomendaciones y volver a testearla hasta tener una interfaz entendible y satisfactorio para el usuario antes de mandarlo al diseño de un interfaz de alta fidelidad.
 
 
+  #### 3.- Realización del Paper Prototyping versión-2 & Testing(06/02/2018).
 
+  - Sé iteró deacuerdo al feedback del primer testeo que se realizó con 3 usuarios dentro de clase. Se obtuvo un prototipo en papel versión-2.
+
+  - Las modificaciones fueron:
+
+  - En la primera vista (registro) se redistribuyó el contenido(abarcaba mucha información)para que sea más sencillo de entender. Esto implicó crear un modal nuevo para que contenga las diferentes formas de registrarse.
+
+ - En la vista perfil, la parte donde muestra calificaciones pendientes se acomodó en el la parte superior tal que el usuario sea lo primero que vea para que pueda calificar.
+
+ - El contacto con la empresa se enviará al correo personal.
+
+ - Se quitarón botones "continuar" que eran innecesarios.
+ - Se creó una ventana donde al hacer un reclamo se genera un código como garantia de que se hizo el reclamo.
+
+ ![Fotos del prototipado](assets/images/registrov2.png)
+ ![Fotos del prototipado](assets/images/calificacion1 v2.png)
+ ![Fotos del prototipado](assets/images/reclamov2.png)
+ ![Fotos del prototipado](assets/images/datos no correctosv2.png)
+
+
+  #### 4.- Realización del Paper Prototyping - final & Testing(06/02/2018).
+
+  - Sé iteró deacuerdo al feedback del segundo testeo que se realizó con usuarios dentro de clase. Se obtuvo un prototipo en papel versión-final (MVP-final).
+
+  - ver prototipo: link
 
  ## E. Testing
 
@@ -249,7 +292,7 @@
 
 
   **I.- Testing del Prototype Content**
-  
+
    Se hizo testing del Prototype Content con las compañeras de clase. La finalidad: obtener feedback para mejorar el flujo de nuestro producto antes de realizar el prototipado del MVP.
 
   1.- Entrevistas a 3 usuarios dentro de clase.    
@@ -258,7 +301,7 @@
   4.- Finalmente pasamos a prototipar nuestras vistas.
 
   Se obtuvo los sgtes. Feedback's:
-    
+
   **Testing 01:**
 
     * No entiendo, ¿qué hace la app?. ¿Es sólo para calificar el servicio de bus?.
@@ -277,7 +320,7 @@
     * La encuesta es muy larga.
     * Se necesitaría crear dos aplicaciones, una para el usuario y otra para la empresa.
     * En dónde guarda los datos que el usuario ya ha viajado.
-      
+
   **Resultado final del Prototype Content**
 
   [Content Prototyping](https://docs.google.com/document/d/1Bdj6_rydMJWmwMQ-s1xbYqpjYtaZO5bo0jFTCYBNoxc/edit)
@@ -289,5 +332,3 @@ Después de un arduo proceso de Creación del Producto pasando por todas las eta
 1.- Luego del testing con el Protype Content, se realizaron las pruebas con el Prototype del Producto en clase.  
 2.- En clase luego de varias horas de trabajo en el Prototype, se empezó a testear con 03 usuarios reales. Realizándose una previa entrevista y finalmente el proceso del testing[Se usó como base la "[Guía de usabilidad](https://docs.google.com/document/d/14IuWyDjKf7YbrObpoxhQxWEAqTISbaRvY6XF5NHZooQ/edit)" y "[Consentimiento](https://docs.google.com/document/d/11Op9jpjyub1_QO0LnH8LdwJTyJfu2daT52cEfFISueA/edit)"].  
 3.- Finalmente se obtuvo un feedback de los 03 usuarios testeados y comenzamos a iterar.
-
-
