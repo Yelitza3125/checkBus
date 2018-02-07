@@ -51,16 +51,19 @@
    - Recolección de datos presencial.
 
    - Terminal Terrestre Plaza Norte (8:30 am, martes 30 de enero): Se realizaron 12 entrevistas. Al término de las entrevistas nos solicitaron un permiso para tomar fotos, entrevistar u otra actividad dentro de la institución.
+   
    ![Fotos en la entrevista](assets/images/plaza-norte-1.jpg).
    ![Fotos en la entrevista](assets/images/plaza-norte-2.jpg).
 
   - Agencias de buses Javier Prado (9:30 am, martes 30 de enero): Se realizaron 11 entrevistas.
+   
    ![Fotos en la entrevista](assets/images/javier-prado-1.jpg).
    ![Fotos en la entrevista](assets/images/javier-prado-2.jpg).
 
    #### 3.- Encuesta online a través de Google Drive
 
    - Recolección de datos online, a través de publicaciones en el facebook, correo electrónico, etc. Se obtuvo 36 respuestas.
+   
    ![Fotos en la encuesta](assets/documents/encuesta/1.jpg).
    ![Fotos en la encuesta](assets/documents/encuesta/10.jpg).
    ![Fotos en la encuesta](assets/documents/encuesta/12.jpg).
@@ -80,17 +83,34 @@
    Se utilizó el diagrama de afinidad, a través los siguientes pasos:
    - Paso 1.- En posits se colocó los comentarios( cosas que no les gusta, cosas que desearían, quejas, cosas que no quedaron claras, etc) tal cual como los usuarios lo mencionaron sin interpretaciones ni deducciones; dichos usuarios fueron de las entrevistas personales que se hicieron en la terminal terrestre Plaza norte y las agencias en Javier Prado.
    
+   ![Diagrama de afinidad](assets/images/diagrama-afinidad.jpg).
+
    - Paso 2.-  Se agrupó  los posits por temas. El fin de esta actividad fue organizar lo recolectado para tener cosas claras y especificas  agrupadas en temas. Los temas que surgieron fueron: Precios/formas de pago, online, atención al cliente, presencial, horarios, ok sin quejas, raros, frecuencia de viajes, servicios dentro del bus.
 
+   ![Items del diagrama de afinidad](assets/images/items.jpg).
+   ![Item-presencial del diagrama de afinidad](assets/images/Item-presencial.jpg).
+
    #### 2.- Priorizar a partir de los temas determinados en el diagrama de afinidad.
+   
+   - Para esta actividad se hizo una lluvia de ideas y se tomó en cuenta los resultados de las encuestas. 
+   
+   ![diagrama de afinidad-encuestas](assets/images/diagrama-afinidad-encuestas.jpg).
+
+   - Priorizamos los temas "Servicios dentro del bus" porque existían más usuarios con los mismos inconvenientes. Se priorizó también el tema "atención al cliente" porque si un servicio dentro del bus no es satisfactorio, el pasajero reclama y es necesario que dicha queja se atiendan de manera adecuada; de ahí la importancia de la relación entre los dos temas.
+
+   ![estadistica-entrevistas](assets/images/estadistica-entrevistas.png).
 
    #### 3.- Elección el problema que se abordará.
+
+   - El problema que se encontró es sobre: "No cumplimiento de los servicios que ofrecen dentro del bus y mala atención al hacer un reclamo".
+   
+   - ¿Porque? Deacuerdo a los temas elegidos en la actividad de priorización se entendió que los servicios dentro del bus que ofrecen las empresas (Asientos, calefacción, ventilación, limpieza, comida, atención de terramoza, etc) muchas veces no son ciertas o no se cumplen por completo; además cuando ocurre un reclamo estos no son atendidos, o medianamente atendidos dejando a los pasajeros insatisfechos.
 
    #### 4.- Benchmarking.
 
    #### 5.- Definición de los User personas.
 
- ![User persona](assets/images/user-persona.jpg).
+   ![User persona](assets/images/user-persona.jpg).
 
 
    #### 6.- Definición de los Problems Statements.
