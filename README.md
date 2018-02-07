@@ -197,20 +197,21 @@
 
    #### 9.- Definición de FEATURE LIST.
 
-   ##### Plataforma del Gerente de la empresa de Transportes:
-
-    - Perfil de usuario.
-    - Sistema de reportes de calificación de los servicios.
-    - Data con el registro de los usuarios frecuentes. 
-  
    ##### Plataforma de calificación del usuario.
 
-    - Sistema de registro via Facebook, Gmail o por un correo electrónico. 
-    - Perfil de usuario.
-    - Notificación para realizar la calificación.
-    - Sistema de calificación de los servicios brindados por la empresa de transportes, a través de puntos.
+  - **Perfil del usuario**
+    - Registro de sesión con Facebook
+    - Registro de sesión con Google
+    - Registro de sesión con su email
+  
+
+  - **Sistema de calificación del servicio**
+    - Notificación automática.
+    - Opción de anonimato.
     - Opción de brindar una opinión.
-    - Opción para contactarse con el empresa, luego de realizar la calificación.
+    - Generación del enlace con la empresa para la solución del reclamo.
+  
+
 
  ## C. Ideación
 
