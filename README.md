@@ -390,7 +390,7 @@ Después de un arduo proceso de Creación del Producto pasando por todas las eta
    
     * El contacto con la empresa, a través del correo personal.
     * La vista de registro tiene mucha información para una vista mobile, simplificarlo. Las opciones de registro que vaya en otra vista o un modal.
-    * En al vista perfil, las calificaciones pendientes no son notorias a simple vista, ubicarlo en un lugar donde se pueda visualizar rápidamente.
+    * En la vista perfil, las calificaciones pendientes no son notorias a simple vista, ubicarlo en un lugar donde se pueda visualizar rápidamente.
 
 **III.- Mostrar Flujo de aplicación del MVP**
 
@@ -401,3 +401,15 @@ Luego de varios testings en clase y con personas externas nuestro Flujo Final de
    [Flujo Datos incorrectos](https://www.youtube.com/watch?v=Lopzv8ywXc0)   
    [Flujo SÍ (comentario adicional)](https://www.youtube.com/watch?v=tXBPmga_WjA)   
    [Flujo NO (comentario adicional)](https://www.youtube.com/watch?v=ovCZuqq6wzU)
+
+## Presentación final
+
+[Presentación final](https://docs.google.com/presentation/d/1LnBKM7p9mY5F7B61CuI288OElfx6fKXQlF8CRVNpjdo/edit?ts=5a7a3a6d#slide=id.g30df108ca2_1_30)    
+
+## Conclusiones
+
+- La importancia de realizar una buena investigación y descubrimiento de las necesidades/problemas de los usuarios, a través de las diferentes herramientas, nos brindó la base sólida de nuestro proyecto, facilitándonos continuar con las diferentes etapas.
+
+- A mayor feedback recibido por diferentes usuarios a nuestro paper prototyping, durante el testing; las versiones del prototipo se ajustaron a mejorar la experiencia del usuario, e indican en un futuro mayor aceptación y éxito de nuestro producto.
+
+- La presentación del producto al público debe ofrecer una rápida, comprensible y sencilla solución a las necesidades/problemas identificados; antecedida de una breve narración de las etapas que nos conducieron al producto final, para atraer a los futuros usuarios y potenciales inversionistas.
