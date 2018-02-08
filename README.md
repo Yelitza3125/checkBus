@@ -392,3 +392,12 @@ Después de un arduo proceso de Creación del Producto pasando por todas las eta
     * La vista de registro tiene mucha información para una vista mobile, simplificarlo. Las opciones de registro que vaya en otra vista o un modal.
     * En al vista perfil, las calificaciones pendientes no son notorias a simple vista, ubicarlo en un lugar donde se pueda visualizar rápidamente.
 
+**III.- Mostrar Flujo de aplicación del MVP**
+
+Luego de varios testings en clase y con personas externas nuestro Flujo Final del producto quedó así:
+
+   [Flujo Principal](https://www.youtube.com/watch?v=3Jf84_n_SMg)    
+   [Flujo Datos Correctos](https://www.youtube.com/watch?v=nw-7sbNeGdw)   
+   [Flujo Datos incorrectos](https://www.youtube.com/watch?v=Lopzv8ywXc0)   
+   [Flujo SÍ (comentario adicional)](https://www.youtube.com/watch?v=tXBPmga_WjA)   
+   [Flujo NO (comentario adicional)](https://www.youtube.com/watch?v=ovCZuqq6wzU)
