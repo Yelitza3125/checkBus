@@ -100,13 +100,20 @@
 
    ![estadistica-entrevistas](assets/images/estadistica-entrevistas.png).
 
-   #### 3.- Elección el problema que se abordará.
+  #### 3.-  Journey-map del problema encontrado.
+
+  Esta herramienta nos ayudó a definir las experiencias positivas y negativas por las que pasan los usurios, mientras realizan las acciones identificadas en el problema. De esta manera podemos definir los momentos en los que debemos reforzar las emociones positivas y mejorar las experiencias negativas. 
+
+  ![Journey Map-problema](assets/images/journey-map/journey-map-problema.jpg).
+
+
+   #### 4.- Elección el problema que se abordará.
 
    - El problema que se encontró es sobre: "No cumplimiento de los servicios que ofrecen dentro del bus y mala atención al hacer un reclamo".
 
    - ¿Porque? Deacuerdo a los temas elegidos en la actividad de priorización se entendió que los servicios dentro del bus que ofrecen las empresas (Asientos, calefacción, ventilación, limpieza, comida, atención de terramoza, etc) muchas veces no son ciertas o no se cumplen por completo; además cuando ocurre un reclamo estos no son atendidos, o medianamente atendidos dejando a los pasajeros insatisfechos.
 
-   #### 4.- Benchmarking.
+   #### 5.- Benchmarking.
 
    Se realizó el benchmarking con las 7 principales empresas de tranportes del país. Para así conocer y comparar los servicios que ofrecen a los pasajeros.
 
@@ -139,7 +146,7 @@
    ![Línea](assets/documents/benchmarck/linea.jpg).
 
 
-   #### 5.- Definición de los User personas.
+   #### 6.- Definición de los User personas.
 
    - Se definió a nuestro user person primario y secundario,  Ana María Rojas y José Carlos respectivamente.
 
@@ -149,20 +156,20 @@
 
    **User Persona**
 
-   ![User persona](assets/images/user-persona.jpg).
+   ![User persona](assets/images/user-personas/user-persona.jpg).
 
    **User Secundario**
   - Aplicar esta herramienta nos permitió resumir necesidades, motivaciones, expectativas comunes de un usuario secundario. Representa a la persona que usaría algunas funcionalidades de nuestro producto.
 
-   ![User secundario](assets/images/user-secundario.jpg).
+   ![User secundario](assets/images/user-personas/user-secundario.jpg).
 
    **User Negative**
   - Aplicar esta herramienta nos permitió resumir necesidades, motivaciones, expectativas comunes de un usuario negativo. Representa a la que persona que no usaría nuestro producto.
   
-   ![User negativo](assets/images/user-negative.jpg).
+   ![User negativo](assets/images/user-personas/user-negative.jpg).
 
 
-   #### 6.- Definición de los Problems Statements.
+   #### 7.- Definición de los Problems Statements.
 
    - Se definió los problems statements en base a las necesidades de nuestros user persons (primario y secundario). se usó el modelo:
 
@@ -190,7 +197,7 @@
        - **Ana María necesita** que el bus tenga aire acondicionado, **porque** realiza viajes largos al interior del país, con sus hijos.
        - **Ana María necesita** asientos cómodos
 
-   #### 7.- Definición de lo HMW( Howgit      Might We?).
+   #### 8.- Definición de lo HMW( Howgit      Might We?).
 
 
   - Se definió los HMW donde  se planteó preguntas tomando como base los PROBLEMS STATEMENTS  ya elaborados en la actividad anterior. se siguió  siguiendo el modelo **¿Cómo podríamos hacer X cosa?**.
@@ -219,7 +226,7 @@
        - ¿Cómo podríamos hacer el viaje más cómodo?
        - ¿Cómo podríamos asegurar que los equipajes no se extravíen o dañen?
 
-   #### 8.- Definición de los WHAT IF?
+   #### 9.- Definición de los WHAT IF?
 
    - En base a los HMW (Cómo podríamos hacer "x" cosa) definimos los WHAT IF? (¿que tal si?) que nos permitieron encontrar algunas soluciones a situaciones especificas.
 
@@ -247,7 +254,7 @@
        - **What if** ¿Aplicamos las funcionalidades de Fitco?
        - **What if** ¿Qué tal si usamos las funcionalidades de Trivago?
 
-   #### 9.- Definición de FEATURE LIST.
+   #### 10.- Definición de FEATURE LIST.
 
    ##### Plataforma de calificación del usuario.
 
@@ -269,7 +276,7 @@
 
    ### Actividades:
 
-   #### 2.- Realización de un Story board.
+   #### 1.- Realización de un Story board.
 
    Partiendo de nuestro user persona, creamos un storyboard, con los momentos que tiene el usuario a lo largo de su proceso de toma de desiciones respecto a su necesidad de encontrar una empresa de bus que cumpla con los servicios que ofrece y poder tener un viaje cómodo junto con su hijo.
 
@@ -414,6 +421,12 @@ Luego de varios testings en clase y con personas externas nuestro Flujo Final de
    [Flujo Datos incorrectos](https://www.youtube.com/watch?v=Lopzv8ywXc0)   
    [Flujo SÍ (comentario adicional)](https://www.youtube.com/watch?v=tXBPmga_WjA)   
    [Flujo NO (comentario adicional)](https://www.youtube.com/watch?v=ovCZuqq6wzU)
+
+   ##### 1.- Journey-map del producto.
+
+  Esta herramienta nos ayuda a definir las experiencias positivas y negativas por las que pasan los usurios, mientras realizan el flujo principal de nuestro producto. De esta manera podemos definir los momentos en los que debemos reforzar las emociones positivas y mejorar las experiencias negativas. 
+
+  ![Journey Map- producto](assets/images/journey-map/journey-map-prototipo.jpg).
 
 ## Presentación final
 
