@@ -416,11 +416,11 @@ Después de un arduo proceso de Creación del Producto pasando por todas las eta
 
 Luego de varios testings en clase y con personas externas nuestro Flujo Final del producto quedó así:
 
-   [Flujo Principal](https://www.youtube.com/watch?v=3Jf84_n_SMg)    
-   [Flujo Datos Correctos](https://www.youtube.com/watch?v=nw-7sbNeGdw)   
-   [Flujo Datos incorrectos](https://www.youtube.com/watch?v=Lopzv8ywXc0)   
-   [Flujo SÍ (comentario adicional)](https://www.youtube.com/watch?v=tXBPmga_WjA)   
-   [Flujo NO (comentario adicional)](https://www.youtube.com/watch?v=ovCZuqq6wzU)
+   [Flujo Registro](https://www.youtube.com/watch?v=FEitSazWUa4)    
+   [Flujo Datos Incorrectos](https://www.youtube.com/watch?v=cZs52yjusxQ)   
+   [Flujo Calificación 5 estrellas](https://www.youtube.com/watch?v=syi9jP8r9-Y)   
+   [Flujo Calificación menor a 5 estrellas (sin comentario adicional)](https://www.youtube.com/watch?v=DLzqRuSkJaA)   
+   [Flujo Calificación menor a 5 estrellas (con comentario adicional)](https://www.youtube.com/watch?v=ppTnacWblLo)
 
    ##### 1.- Journey-map del producto.
 
