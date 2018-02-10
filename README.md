@@ -147,8 +147,19 @@
 
    - Aplicar esta herramienta nos permitió resumir necesidades, motivaciones, expectativas comunes en un solo ejemplo (user person), nos brindó una visión general de como son nuestros usuarios individualmente;  y poder inferir (empatizando) como este podría usar nuestro producto, para asi poder identificar con facilidad sus necesidades y la razon por la cual surge esa necesidad(Problems Statements).
 
+   **User Persona**
+
    ![User persona](assets/images/user-persona.jpg).
-   ![User persona](assets/images/user-persona-sec.png).
+
+   **User Secundario**
+  - Aplicar esta herramienta nos permitió resumir necesidades, motivaciones, expectativas comunes de un usuario secundario. Representa a la persona que usaría algunas funcionalidades de nuestro producto.
+
+   ![User secundario](assets/images/user-secundario.jpg).
+
+   **User Negative**
+  - Aplicar esta herramienta nos permitió resumir necesidades, motivaciones, expectativas comunes de un usuario negativo. Representa a la que persona que no usaría nuestro producto.
+  
+   ![User negativo](assets/images/user-negative.jpg).
 
 
    #### 6.- Definición de los Problems Statements.
@@ -267,6 +278,8 @@
 
    ![storyboard](assets/images/storyboard1.png)
    ![storyboard](assets/images/storyboard2.png)
+
+
 
  ## D. Prototipado
 
