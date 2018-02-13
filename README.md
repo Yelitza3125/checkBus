@@ -419,9 +419,9 @@ Después de un arduo proceso de Creación del Producto pasando por todas las eta
 
     - La presentación del producto al público debe ofrecer una rápida, comprensible y sencilla solución a las necesidades/problemas identificados; antecedida de una breve narración de las etapas que nos conducieron al producto final, para atraer a los futuros usuarios y potenciales inversionistas.
 
-**III.- ETAPAS POSTERIORES  AL PROTIPADO EN PAPEL (MVP)**
+ ## **III.- ETAPAS POSTERIORES  AL PROTOTIPADO EN PAPEL (MVP)**
 
-## A.- **SÍNTESIS**
+### A.- **SÍNTESIS**
 
 #### 1.- **User Persona Negative**
 
@@ -444,7 +444,7 @@ Esta herramienta nos ayuda a definir las experiencias positivas y negativas por 
 
  [STORYTELLING](https://docs.google.com/document/d/1q1ZWWkYDlnjGwTCZ3OpDM9BmJC_a23pyytVw11RARjw/edit)
 
-#### B.- **CONCEPTUALIZACIÓN**
+### B.- **CONCEPTUALIZACIÓN**
 
 
 ##### 1.- **User Flows**
