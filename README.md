@@ -102,7 +102,7 @@
 
   #### 3.-  Journey-map del problema encontrado.
 
-  Esta herramienta nos ayudó a definir las experiencias positivas y negativas por las que pasan los usurios, mientras realizan las acciones identificadas en el problema. De esta manera podemos definir los momentos en los que debemos reforzar las emociones positivas y mejorar las experiencias negativas. 
+  Esta herramienta nos ayudó a definir las experiencias positivas y negativas por las que pasan los usurios, mientras realizan las acciones identificadas en el problema. De esta manera podemos definir los momentos en los que debemos reforzar las emociones positivas y mejorar las experiencias negativas.
 
   ![Journey Map-problema](assets/images/journey-map/journey-map-problema.jpg).
 
@@ -162,11 +162,6 @@
   - Aplicar esta herramienta nos permitió resumir necesidades, motivaciones, expectativas comunes de un usuario secundario. Representa a la persona que usaría algunas funcionalidades de nuestro producto.
 
    ![User secundario](assets/images/user-personas/user-secundario.jpg).
-
-   **User Negative**
-  - Aplicar esta herramienta nos permitió resumir necesidades, motivaciones, expectativas comunes de un usuario negativo. Representa a la que persona que no usaría nuestro producto.
-  
-   ![User negativo](assets/images/user-personas/user-negative.jpg).
 
 
    #### 7.- Definición de los Problems Statements.
@@ -400,20 +395,59 @@ Después de un arduo proceso de Creación del Producto pasando por todas las eta
     * Que la comunicación con la empresa sea via correo o llamada
 
 **Gonzalo:**
-      
+
     * En la vista registró mejor distribución del contenido, tiene mucha información que distrae.
     * Que el contacto con la empresa sea via el correo personal.
     * En lugar de una app, también podría ser una página web.
     * Mayor rapidez en el flujo, sin tantos botones de "continuar"
 
 **Ruth:**
-   
+
     * El contacto con la empresa, a través del correo personal.
     * La vista de registro tiene mucha información para una vista mobile, simplificarlo. Las opciones de registro que vaya en otra vista o un modal.
     * En la vista perfil, las calificaciones pendientes no son notorias a simple vista, ubicarlo en un lugar donde se pueda visualizar rápidamente.
 
-**III.- Mostrar Flujo de aplicación del MVP**
+    ## Presentación final
 
+    [Presentación final](https://docs.google.com/presentation/d/1LnBKM7p9mY5F7B61CuI288OElfx6fKXQlF8CRVNpjdo/edit?ts=5a7a3a6d#slide=id.g30df108ca2_1_30)    
+
+    ## Conclusiones
+
+    - La importancia de realizar una buena investigación y descubrimiento de las necesidades/problemas de los usuarios, a través de las diferentes herramientas, nos brindó la base sólida de nuestro proyecto, facilitándonos continuar con las diferentes etapas.
+
+    - A mayor feedback recibido por diferentes usuarios a nuestro paper prototyping, durante el testing; las versiones del prototipo se ajustaron a mejorar la experiencia del usuario, e indican en un futuro mayor aceptación y éxito de nuestro producto.
+
+    - La presentación del producto al público debe ofrecer una rápida, comprensible y sencilla solución a las necesidades/problemas identificados; antecedida de una breve narración de las etapas que nos conducieron al producto final, para atraer a los futuros usuarios y potenciales inversionistas.
+
+**III.- ETAPAS POSTERIORES  AL PROTIPADO EN PAPEL (MVP)**
+
+## A.- **SÍNTESIS**
+
+#### 1.- **User Persona Negative**
+
+- Se definió a nuestro user persona negativa: Steve.
+- Aplicar esta herramienta nos permitió resumir necesidades, motivaciones, expectativas comunes de un usuario negativo. Representa a la que persona que no usaría nuestro producto; y asi descartar ciertos servicios que no serían necesarios en nuestro MVP.
+
+![User negativo](assets/images/user-personas/user-negative.jpg).
+
+#### 2.- **Journey-map del producto**.
+
+Esta herramienta nos ayuda a definir las experiencias positivas y negativas por las que pasan los usurios, mientras realizan el flujo principal de nuestro producto. De esta manera podemos definir los momentos en los que debemos reforzar las emociones positivas y mejorar las experiencias negativas.
+
+![Journey Map- producto](assets/images/journey-map/journey-map-prototipo.jpg).
+
+#### 3.- **Storytelling**
+
+- Se hizo el Storytelling de nuestro user persona primario.
+- Para ello cada integrante creó su propio storytelling sobre Ana María y apartir de ello surgió uno solo, tomando las ideas de todas.
+- Esta herramienta nos ayuda a mejorar e integrar mejor la experiencia de usuario con nuestro MVP.
+
+ [STORYTELLING](https://docs.google.com/document/d/1q1ZWWkYDlnjGwTCZ3OpDM9BmJC_a23pyytVw11RARjw/edit)
+
+#### B.- **CONCEPTUALIZACIÓN**
+
+
+##### 1.- **User Flows**
 Luego de varios testings en clase y con personas externas nuestro Flujo Final del producto quedó así:
 
    [Flujo Registro](https://www.youtube.com/watch?v=FEitSazWUa4)    
@@ -422,20 +456,4 @@ Luego de varios testings en clase y con personas externas nuestro Flujo Final de
    [Flujo Calificación menor a 5 estrellas (sin comentario adicional)](https://www.youtube.com/watch?v=DLzqRuSkJaA)   
    [Flujo Calificación menor a 5 estrellas (con comentario adicional)](https://www.youtube.com/watch?v=ppTnacWblLo)
 
-   ##### 1.- Journey-map del producto.
-
-  Esta herramienta nos ayuda a definir las experiencias positivas y negativas por las que pasan los usurios, mientras realizan el flujo principal de nuestro producto. De esta manera podemos definir los momentos en los que debemos reforzar las emociones positivas y mejorar las experiencias negativas. 
-
-  ![Journey Map- producto](assets/images/journey-map/journey-map-prototipo.jpg).
-
-## Presentación final
-
-[Presentación final](https://docs.google.com/presentation/d/1LnBKM7p9mY5F7B61CuI288OElfx6fKXQlF8CRVNpjdo/edit?ts=5a7a3a6d#slide=id.g30df108ca2_1_30)    
-
-## Conclusiones
-
-- La importancia de realizar una buena investigación y descubrimiento de las necesidades/problemas de los usuarios, a través de las diferentes herramientas, nos brindó la base sólida de nuestro proyecto, facilitándonos continuar con las diferentes etapas.
-
-- A mayor feedback recibido por diferentes usuarios a nuestro paper prototyping, durante el testing; las versiones del prototipo se ajustaron a mejorar la experiencia del usuario, e indican en un futuro mayor aceptación y éxito de nuestro producto.
-
-- La presentación del producto al público debe ofrecer una rápida, comprensible y sencilla solución a las necesidades/problemas identificados; antecedida de una breve narración de las etapas que nos conducieron al producto final, para atraer a los futuros usuarios y potenciales inversionistas.
+Esto nos sirvió para mapear el camino que nuestro user persona (Ana María) deberá seguir para satisfacer sus necesidades.
