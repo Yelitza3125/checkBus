@@ -1,4 +1,12 @@
-# RETO: NUEVA EXPERIENCIA EN EMPRESAS DE BUSES
+# CheckBus
+CheckBus es el demo de un aplicación, que nació a partir de un proceso de UX-research enfocado en User-centered design (UCD); cuya finalidad es calificar y poder hacer reclamos sobre el servicio brindado por las empresas de buses.
+
+![checkBus](https://user-images.githubusercontent.com/32300384/36302393-47f9bdba-12d6-11e8-91b4-6cd5929dcd4f.png)
+
+## Desarrollado para
+[Laboratoria](http://laboratoria.la)
+***
+# RETO: CheckBus, Nueva experiencia de empresas de buses
 
 * **TRACK:** _ESPECIALIZACIÓN UX-DESIGNER_
 * **CURSO:** _PRIMER PROYECTO DE UX_
