@@ -6,7 +6,7 @@ CheckBus es el demo de un aplicación, que nació a partir de un proceso de UX-r
 ## Desarrollado para
 [Laboratoria](http://laboratoria.la)
 ***
-# RETO: CheckBus, Nueva experiencia de empresas de buses
+## ver más detalles
 
 * **TRACK:** _ESPECIALIZACIÓN UX-DESIGNER_
 * **CURSO:** _PRIMER PROYECTO DE UX_
