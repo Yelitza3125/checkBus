@@ -415,7 +415,7 @@ Después de un arduo proceso de Creación del Producto pasando por todas las eta
 
  ### Presentación final
 
-    [Presentación final](https://docs.google.com/presentation/d/1LnBKM7p9mY5F7B61CuI288OElfx6fKXQlF8CRVNpjdo/edit?ts=5a7a3a6d#slide=id.g30df108ca2_1_30)    
+   [Presentación final](https://docs.google.com/presentation/d/1LnBKM7p9mY5F7B61CuI288OElfx6fKXQlF8CRVNpjdo/edit?usp=sharing)    
 
  ### Conclusiones
 
@@ -464,6 +464,6 @@ Luego de varios testings en clase y con personas externas nuestro Flujo Final de
 
 Esto nos sirvió para mapear el camino que nuestro user persona (Ana María) deberá seguir para satisfacer sus necesidades.
 
-**Presentación Final MVP**
+#### Presentación Final MVP**
 
-[CheckBus-MVP]()
+[CheckBus-MVP](https://docs.google.com/presentation/d/16ZBvTogA3aGrT_pYVbx3ZkOs8tWcvS9gbSxIroWoiO0/edit?usp=sharing)
