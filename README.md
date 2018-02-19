@@ -40,7 +40,7 @@ CheckBus es el demo de un aplicación, que nació a partir de un proceso de UX-r
 
 ## Etapas DCU (Diseño Centrado en el Usuario):
 
-#### A. Descubrimiento e Investigación
+### A. Descubrimiento e Investigación
 
   **Actividades:**
 
@@ -78,7 +78,7 @@ CheckBus es el demo de un aplicación, que nació a partir de un proceso de UX-r
    [Plataformas online de servicios de empresas de transporte](assets/documents/investigación/Plataforma-web-empresas.pptx)
    [Calificaciones de apps de empresas de transporte](assets/documents/investigación/Calificaciones_de_apps_de_agencias.xlsx)
 
-#### B. Síntesis y Definición
+### B. Síntesis y Definición
 
   **Actividades:**
 
@@ -150,7 +150,7 @@ CheckBus es el demo de un aplicación, que nació a partir de un proceso de UX-r
    ![Línea](assets/documents/benchmarck/linea.jpg).
 
 
-** 6.- Definición de los User personas**
+**6.- Definición de los User personas**
 
    - Se definió a nuestro user person primario y secundario,  Ana María Rojas y José Carlos respectivamente.
 
@@ -196,7 +196,7 @@ CheckBus es el demo de un aplicación, que nació a partir de un proceso de UX-r
        - **Ana María necesita** que el bus tenga aire acondicionado, **porque** realiza viajes largos al interior del país, con sus hijos.
        - **Ana María necesita** asientos cómodos
 
-** 8.- Definición de lo HMW( Howgit      Might We?).**
+**8.- Definición de lo HMW( HowgitMight We?).**
 
 
   - Se definió los HMW donde  se planteó preguntas tomando como base los PROBLEMS STATEMENTS  ya elaborados en la actividad anterior. se siguió  siguiendo el modelo **¿Cómo podríamos hacer X cosa?**.
@@ -271,7 +271,7 @@ CheckBus es el demo de un aplicación, que nació a partir de un proceso de UX-r
 
 
 
-#### C. Ideación
+ ### C. Ideación**
 
 **Actividades:**
 
@@ -287,7 +287,7 @@ CheckBus es el demo de un aplicación, que nació a partir de un proceso de UX-r
 
 
 
-#### D. Prototipado
+### D. Prototipado
 
   **Actividades:**
 
@@ -344,12 +344,12 @@ CheckBus es el demo de un aplicación, que nació a partir de un proceso de UX-r
 
   - ver prototipo: link
 
-#### E. Testing
+### E. Testing
 
   **Actividades:**
 
 
-##### I.- Testing del Prototype Content
+ **I.- Testing del Prototype Content**
 
    Se hizo testing del Prototype Content con las compañeras de clase. La finalidad: obtener feedback para mejorar el flujo de nuestro producto antes de realizar el prototipado del MVP.
 
@@ -383,7 +383,7 @@ CheckBus es el demo de un aplicación, que nació a partir de un proceso de UX-r
 
   [Content Prototyping](https://docs.google.com/document/d/1Bdj6_rydMJWmwMQ-s1xbYqpjYtaZO5bo0jFTCYBNoxc/edit)
 
-##### II.- Testing de Paper Prototype
+ **II.- Testing de Paper Prototype**
 
 Después de un arduo proceso de Creación del Producto pasando por todas las etapas(descubrimiento e investigación, síntesis y definición, ideación, prototipado, testing). Se realizó un testing con 03 usuarios, con el fin de obtener feedback del producto creado y mejorar a través del tiempo.
 
@@ -464,5 +464,5 @@ Luego de varios testings en clase y con personas externas nuestro Flujo Final de
 
 Esto nos sirvió para mapear el camino que nuestro user persona (Ana María) deberá seguir para satisfacer sus necesidades.
 
-### Presentación Final MVP
+#### Presentación Final MVP
 [CheckBus-MVP](https://docs.google.com/presentation/d/16ZBvTogA3aGrT_pYVbx3ZkOs8tWcvS9gbSxIroWoiO0/edit#slide=id.g3361d73bc6_0_70)
