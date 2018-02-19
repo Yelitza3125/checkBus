@@ -168,7 +168,7 @@ CheckBus es el demo de un aplicación, que nació a partir de un proceso de UX-r
    ![User secundario](assets/images/user-personas/user-secundario.jpg)
 
 
-** 7.- Definición de los Problems Statements**
+**7.- Definición de los Problems Statements**
 
    - Se definió los problems statements en base a las necesidades de nuestros user persons (primario y secundario). se usó el modelo:
 
@@ -464,5 +464,5 @@ Luego de varios testings en clase y con personas externas nuestro Flujo Final de
 
 Esto nos sirvió para mapear el camino que nuestro user persona (Ana María) deberá seguir para satisfacer sus necesidades.
 
-#### Presentación Final MVP
+**Presentación Final MVP**
 [CheckBus-MVP](https://docs.google.com/presentation/d/16ZBvTogA3aGrT_pYVbx3ZkOs8tWcvS9gbSxIroWoiO0/edit#slide=id.g3361d73bc6_0_70)
