@@ -465,4 +465,5 @@ Luego de varios testings en clase y con personas externas nuestro Flujo Final de
 Esto nos sirvió para mapear el camino que nuestro user persona (Ana María) deberá seguir para satisfacer sus necesidades.
 
 **Presentación Final MVP**
-[CheckBus-MVP](https://docs.google.com/presentation/d/16ZBvTogA3aGrT_pYVbx3ZkOs8tWcvS9gbSxIroWoiO0/edit#slide=id.g3361d73bc6_0_70)
+
+[CheckBus-MVP]()
