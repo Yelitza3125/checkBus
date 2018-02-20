@@ -1,6 +1,6 @@
-# CheckBus
+# checkBus
 
-CheckBus es una aplicación que permite a los usuarios calificar los servicios ofrecidos por las empresas de transporte de buses. Mejora el proceso de reclamos del cliente y ayuda a generar una solución inmediata en beneficio del usuario. Nació a partir de un proceso de UX-research enfocado en User-centered design (UCD) y mediante el proceso de Design Thinking.
+checkBus es una aplicación que permite a los usuarios calificar los servicios ofrecidos por las empresas de transporte de buses. Mejora el proceso de reclamos del cliente y ayuda a generar una solución inmediata en beneficio del usuario. Nació a partir de un proceso de UX-research enfocado en User-centered design (UCD) y mediante el proceso de Design Thinking.
 
 ![checkbus](https://user-images.githubusercontent.com/32287220/36417963-69d45706-15fb-11e8-9098-804d1e50979a.jpg)
 
@@ -9,6 +9,7 @@ CheckBus es una aplicación que permite a los usuarios calificar los servicios o
 
 [Laboratoria](http://laboratoria.la)
 ***
+
 ## Ver más detalles
 
 * **TRACK:** _ESPECIALIZACIÓN UX-DESIGNER_
